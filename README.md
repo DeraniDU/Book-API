@@ -97,7 +97,8 @@ curl -X POST http://localhost:8080/books \
     "publicationDate": "2023-10-01T00:00:00Z",
     "isbn": "978-3-16-148410-0",
     "pages": 380,
-    "genre": "Programming",
+    "genre": "Programming",<img width="780" alt="Screenshot 2025-03-27 at 20 24 34" src="https://github.com/user-attachments/assets/aa8942a9-3e3f-4c03-84bc-4b1c4b9527c2" />
+
     "description": "A comprehensive guide to Go programming.",
     "price": 29.99,
     "quantity": 50
